@@ -1,0 +1,9 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-image: url("https://marketingaccesspass.com/wp-content/uploads/2015/10/Podcast-Website-Design-Background-Image.jpg");
+  background-size:cover;
+  max-width: 100%;
+  max-height: 100%;
+}

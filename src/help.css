@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-size: cover;
+  }
+.sleep{
+margin-top: 10px;
+margin-left: 50px;
+background: rgba(0, 0, 0, 0.6);
+color: #ffffff;
+width: 90%;
+float: center;
+border-radius: 10px;
+padding: 20px;
+text-align: justify;
+align-items: center;
+justify-content: center;
+}
+
+.slept{
+
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.smile{
+margin-top: 10px;
+padding: 20px;
+background: rgba(0, 0, 0, 0.6);
+border-radius: 10px;
+width: 94%;
+color: #fff;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+text-align: justify;
+}
+
+.leap{
+    margin-top: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    width: 50%;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+
+.butt {
+    margin-top: 10px;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+
+.buts {
+    margin-left: 10px;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+
+  h1{
+    color: rgb(0, 255, 21);
+  }
+
+  h2{
+    color: rgb(251, 255, 0);
+  }
+
+  h4{
+    color: #ffffff;
+    text-align: center;
+  }
